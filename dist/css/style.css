@@ -1,0 +1,31 @@
+
+.navbar-default{
+    background-color: #2a2a2a;
+}
+
+.imagen{
+    padding: 0.7em 0.7em;
+}
+
+.navbar-default sidebar{
+    background: #c7c7c7;
+    color: #ffffff;
+}
+
+.nav>li>a:hover {
+text-decoration: none;
+background-color: #b9b8b8;
+}
+
+#side-menu{
+    background: #c7c7c7;
+}
+
+.sidebar ul li a.active {
+    
+}
+
+a{
+color: #FFFFFF;
+text-decoration: none;
+}
